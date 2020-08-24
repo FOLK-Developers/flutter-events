@@ -4,6 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 //import 'package:folkeventapp_new/eventdetails2.dart';
 import 'package:folkeventapp_new/datepicker2.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:folkeventapp_new/ed2.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
