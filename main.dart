@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:folkeventapp_new/ed2.dart';
+import 'package:folkeventapp_new/ed1.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 //import 'package:folkeventapp_new/eventdetails2.dart';
 import 'package:folkeventapp_new/datepicker2.dart';
