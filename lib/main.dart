@@ -1,12 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:folkeventapp_new/eventlist.dart';
-import 'package:folkeventapp_new/eventdetail.dart';
+//import 'package:folkeventapp_new/eventlist.dart';
+//import 'package:folkeventapp_new/eventdetail.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:folkeventapp_new/eventdetails2.dart';
-import 'package:folkeventapp_new/ed2.dart';
+//import 'package:folkeventapp_new/eventdetails2.dart';
+import 'package:folkeventapp_new/Event_Page/ed1.dart';
+import 'package:folkeventapp_new/Event_Page/ed2.dart';
+import 'package:folkeventapp_new/Event_Page/ed3.dart';
 import 'package:folkeventapp_new/datepicker2.dart';
 
-import 'package:table_calendar/table_calendar.dart';
+//import 'package:table_calendar/table_calendar.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
