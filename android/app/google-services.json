@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181871373833",
+    "firebase_url": "https://folkeventapp.firebaseio.com",
+    "project_id": "folkeventapp",
+    "storage_bucket": "folkeventapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181871373833:android:33df8ff107ac02306052d8",
+        "android_client_info": {
+          "package_name": "com.example.folkeventapp_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181871373833-cshfopn7s28g4nh4lgd2v4p58lb5eauq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1sLD4lBU4X6Hj1-FSKmASlWYsBWGJb0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181871373833-cshfopn7s28g4nh4lgd2v4p58lb5eauq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
